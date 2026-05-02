@@ -81,12 +81,3 @@ I like AI development, hands-on projects, and automation work. My recent focus i
 - [pyPackage-BAT](https://github.com/Aquinas-Protocol/pyPackage-BAT) — Batch menu utility for Python package installation and management.
 - [WhatAShame](https://github.com/Aquinas-Protocol/WhatAShame) — AutoHotkey helper script for Deus Ex cheat command controls.
 
-## GitHub Stats
-
-<div align="center">
-
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aquinas-Protocol&theme=github_dark&hide_border=true&show_icons=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinas-Protocol&theme=github_dark&hide_border=true&layout=compact)
-
-</div>
