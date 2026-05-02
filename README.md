@@ -1,37 +1,92 @@
-## 👋 Hi there, I’m Dylan Palumbo
+<div align="center">
 
-I’m a software developer, U.S. Army veteran, and lifelong tech enthusiast.<br>
-I’m currently studying Computer Science and working toward AWS certifications (Solutions Architect, Developer, and SysOps Administrator) to deepen my cloud skills.
+# Dylan Palumbo
 
-I have over a decade of experience solving technical problems, building custom software solutions, and exploring new technologies.<br>
-I enjoy coding in Java, Python, C++, and I’m diving deeper into web development with React and modern JavaScript frameworks.<br>
+**Software Developer | Agentic Workflows | Cloud & Automation**
 
-<b>Languages:</b> Java, Python, C++, JavaScript<br>
-<b>Databases:</b> MySQL, SQL Server<br>
-<b>Cloud:</b> AWS (studying for Solutions Architect, Developer, SysOps certs)<br>
-<b>Tools:</b> Visual Studio, Git<br>
-<b>Concepts:</b> OOP, CI/CD, DevOps, cybersecurity fundamentals<br>
+Austin, TX
 
-<b>🛠 Current Focus:</b><br>
-Deepening cloud development expertise with AWS<br>
-Building personal projects to automate tasks and learn new technologies<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan%20Palumbo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-palumbo)
 
-<b>🎓 Education:</b><br>
-A.S. in Computer Science (in progress, SNHU)<br>
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-palumbo) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aquinas-Protocol&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aquinas-Protocol&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinas-Protocol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aquinas-Protocol&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm a software developer, U.S. Army veteran, and lifelong builder with 15+ years in tech.
+
+I like AI development, hands-on projects, and automation work. My recent focus is **agentic workflow development and AI harness design** — multi-agent systems on the Claude Agent SDK, MCP-tooled cron schedulers, and personal knowledge infrastructure that runs unattended on my home server. I enjoy building practical tools, learning new systems, and turning complex workflows into something cleaner and easier to use.
+
+## Current Focus
+
+- Agentic workflow development on the Claude Agent SDK and Model Context Protocol (MCP)
+- AI harness design — multi-agent systems, persona-driven agents, vault-as-memory architectures
+- Cloud development with AWS
+- Java, Python, C++, and modern JavaScript
+- Automation tools and developer workflows
+- Personal projects that solve real problems
+
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+**AI & Agents**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-1F1F1F?style=flat&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
+
+**Databases & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+**Frameworks & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+
+## Featured Projects
+
+**Agentic Workflows & AI Harness**
+
+- [second-brain](https://github.com/Aquinas-Protocol/second-brain) — Claude Code-driven personal knowledge vault. Read-only `raw/` source material, Claude-maintained `wiki/` pages, persona-driven agents, and a nightly Windows Task Scheduler `/ingest` + `/lint` pipeline.
+- **discord-ops** *(private)* — Three-agent Discord council on the Claude Agent SDK. FastAPI Mission Control dashboard, MCP-tooled cron scheduler, and a PreToolUse safety hook that blocks writes even under `bypassPermissions`. 195 passing pytest tests. Runs as a Windows NSSM service on subscription-default OAuth.
+- **gmail-discord-agent** *(private)* — Built on Claude Managed Agents (public beta). Classifies the latest inbox emails as CRITICAL / RELEVANT / SKIP and posts a digest to Discord on a daily cron.
+
+**Other Projects**
+
+- [FalloutCMD](https://github.com/Aquinas-Protocol/FalloutCMD) — Fallout-inspired text-based game built as a school project.
+- [pyPackage-BAT](https://github.com/Aquinas-Protocol/pyPackage-BAT) — Batch menu utility for Python package installation and management.
+- [WhatAShame](https://github.com/Aquinas-Protocol/WhatAShame) — AutoHotkey helper script for Deus Ex cheat command controls.
+
+## GitHub Stats
+
+<div align="center">
+
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aquinas-Protocol&theme=github_dark&hide_border=true&show_icons=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinas-Protocol&theme=github_dark&hide_border=true&layout=compact)
+
+</div>
