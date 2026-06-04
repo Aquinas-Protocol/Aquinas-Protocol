@@ -2,11 +2,13 @@
 
 # Dylan Palumbo
 
-**Software Developer | Agentic Workflows | Cloud & Automation**
+**Agentic AI Infrastructure | Backend & Platform Engineering | Claude Agent SDK**
 
 Austin, TX
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dylan%20Palumbo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-palumbo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dylan--palumbo.com-BC52EE?style=flat&logo=astro&logoColor=white)](https://dylan-palumbo.com)
+[![Email](https://img.shields.io/badge/Email-palumbo.d555%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:palumbo.d555@gmail.com)
 
 </div>
 
@@ -14,70 +16,48 @@ Austin, TX
 
 ## About
 
-I'm a software developer, U.S. Army veteran, and lifelong builder with 15+ years in tech.
+I build production agentic AI infrastructure. Currently shipping [Domo](https://github.com/Aquinas-Protocol/domo) — a five-agent council on the Claude Agent SDK + FastAPI + SQLite, with a Mission Control dashboard, a LocalSystem elevation broker over named-pipe IPC, custom MCP servers per workflow, and HITL approval gates.
 
-I like AI development, hands-on projects, and automation work. My recent focus is **agentic workflow development and AI harness design** — multi-agent systems on the Claude Agent SDK, MCP-tooled cron schedulers, and personal knowledge infrastructure that runs unattended on my home server. I enjoy building practical tools, learning new systems, and turning complex workflows into something cleaner and easier to use.
+Most recently led IT service delivery for 12,838 users at EOS IT Solutions (95.3% CSAT, ~1,970 tickets/month, Aug 2025 – May 2026). Currently focused on the build full-time after four years U.S. Army (Infantryman, 1st Cavalry Division).
 
-## Current Focus
+## Featured Projects
 
-- Agentic workflow development on the Claude Agent SDK and Model Context Protocol (MCP)
-- AI harness design — multi-agent systems, persona-driven agents, vault-as-memory architectures
-- Cloud development with AWS
-- Java, Python, C++, and modern JavaScript
-- Automation tools and developer workflows
-- Personal projects that solve real problems
+- **[Domo](https://github.com/Aquinas-Protocol/domo)** — multi-agent Discord council (MIT). Claude Agent SDK · FastAPI · SQLite · custom MCP servers · LocalSystem elevation broker · HITL gates · plugin seam + setup wizard.
+- **[Stadium](https://aquinas-protocol.github.io/workout-app)** — workout-logging app. Expo + React Native + TypeScript. Native iPhone + installable offline PWA.
+- **[dylan-palumbo.com](https://dylan-palumbo.com)** — portfolio. Astro + Tailwind + React on Cloudflare Workers. Lighthouse 100×4 desktop + mobile.
+- **[second-brain](https://github.com/Aquinas-Protocol/second-brain)** — Karpathy-pattern knowledge vault. `raw/` (read-only) curated into atomic `wiki/` pages by Claude Code.
 
 ## Tech Stack
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **AI & Agents**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=flat&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-1F1F1F?style=flat&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
 
-**Databases & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
-**Frameworks & APIs**
+**Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat&logo=discord&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
+![Server-Sent Events](https://img.shields.io/badge/Server--Sent%20Events-FF6F00?style=flat)
+![OAuth](https://img.shields.io/badge/OAuth-2F2F2F?style=flat)
 
-**Tools & Platforms**
+**Frontend**
 
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 
-## Featured Projects
+**Cloud**
 
-**Agentic Workflows & AI Harness**
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-- [second-brain](https://github.com/Aquinas-Protocol/second-brain) — Claude Code-driven personal knowledge vault. Read-only `raw/` source material, Claude-maintained `wiki/` pages, persona-driven agents, and a nightly Windows Task Scheduler `/ingest` + `/lint` pipeline.
-- **discord-ops** *(private)* — Three-agent Discord council on the Claude Agent SDK. FastAPI Mission Control dashboard, MCP-tooled cron scheduler, and a PreToolUse safety hook that blocks writes even under `bypassPermissions`. 195 passing pytest tests. Runs as a Windows NSSM service on subscription-default OAuth.
-- **gmail-discord-agent** *(private)* — Built on Claude Managed Agents (public beta). Classifies the latest inbox emails as CRITICAL / RELEVANT / SKIP and posts a digest to Discord on a daily cron.
+## Open To
 
-**Other Projects**
-
-- [FalloutCMD](https://github.com/Aquinas-Protocol/FalloutCMD) — Fallout-inspired text-based game built as a school project.
-- [pyPackage-BAT](https://github.com/Aquinas-Protocol/pyPackage-BAT) — Batch menu utility for Python package installation and management.
-- [WhatAShame](https://github.com/Aquinas-Protocol/WhatAShame) — AutoHotkey helper script for Deus Ex cheat command controls.
-
+Remote, US-based IC engineering — **Senior Backend**, **Senior Platform**, **Senior AI Infrastructure**, **Founding Engineer**, **Principal IC**. No people management. No on-call.
