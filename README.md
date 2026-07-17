@@ -16,13 +16,13 @@ Austin, TX
 
 ## About
 
-I build production agentic AI infrastructure. Currently shipping [Domo](https://github.com/Aquinas-Protocol/domo) — a five-agent council on the Claude Agent SDK + FastAPI + SQLite, with a Mission Control dashboard, a LocalSystem elevation broker over named-pipe IPC, custom MCP servers per workflow, and HITL approval gates.
+I build production agentic AI infrastructure. Currently shipping [Domo](https://github.com/Aquinas-Protocol/domo) — a six-agent council on the Claude Agent SDK + FastAPI + SQLite, with a Mission Control dashboard, a LocalSystem elevation broker over named-pipe IPC, custom MCP servers per workflow, and HITL approval gates.
 
 Most recently led IT service delivery for 12,838 users at EOS IT Solutions (95.3% CSAT, ~1,970 tickets/month, Aug 2025 – May 2026). Currently focused on the build full-time after four years U.S. Army (Infantryman, 1st Cavalry Division).
 
 ## Featured Projects
 
-- **[Domo](https://github.com/Aquinas-Protocol/domo)** — multi-agent Discord council (MIT). Claude Agent SDK · FastAPI · SQLite · custom MCP servers · LocalSystem elevation broker · HITL gates · plugin seam + setup wizard.
+- **[Domo](https://github.com/Aquinas-Protocol/domo)** — multi-agent Discord council (MIT). Claude Agent SDK · FastAPI · SQLite · custom MCP servers · LocalSystem elevation broker · HITL gates · plugin seam + setup wizard · real-time SSE Mission Control redesign with zero functional loss (July 2026) · adversarially-reviewed read-only vault MCP endpoint · 1,362-test suite.
 - **[Stadium](https://aquinas-protocol.github.io/workout-app)** — workout-logging app. Expo + React Native + TypeScript. Native iPhone + installable offline PWA.
 - **[dylan-palumbo.com](https://dylan-palumbo.com)** — portfolio. Astro + Tailwind + React on Cloudflare Workers. Lighthouse 100×4 desktop + mobile.
 - **[second-brain](https://github.com/Aquinas-Protocol/second-brain)** — Karpathy-pattern knowledge vault. `raw/` (read-only) curated into atomic `wiki/` pages by Claude Code.
