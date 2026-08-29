@@ -22,7 +22,8 @@ Most recently led IT service delivery for 12,838 users at EOS IT Solutions (95.3
 
 ## Featured Projects
 
-- **[Domo](https://github.com/Aquinas-Protocol/domo)** — multi-agent Discord council (MIT). Claude Agent SDK · FastAPI · SQLite · custom MCP servers · LocalSystem elevation broker · HITL gates · plugin seam + setup wizard · real-time SSE Mission Control redesign with zero functional loss (July 2026) · adversarially-reviewed read-only vault MCP endpoint · 1,362-test suite.
+- **[Domo](https://github.com/Aquinas-Protocol/domo)** — multi-agent Discord council (MIT). Claude Agent SDK · FastAPI · SQLite · custom MCP servers · LocalSystem elevation broker · HITL gates · plugin seam + setup wizard · real-time SSE Mission Control redesign with zero functional loss (July 2026) · adversarially-reviewed read-only vault MCP endpoint · 1,501-test suite.
+- **[n8n-hris-provisioning](https://github.com/Aquinas-Protocol/n8n-hris-provisioning)** — new-hire provisioning pipeline in n8n 2.35.7 (MIT). Mock HRIS webhook · Slack approve/decline gate · idempotent Google Workspace legs (mocked Admin SDK) · Notion People row · error lane · compose + CI, importable by a stranger.
 - **[Stadium](https://aquinas-protocol.github.io/workout-app)** — workout-logging app. Expo + React Native + TypeScript. Native iPhone + installable offline PWA.
 - **[dylan-palumbo.com](https://dylan-palumbo.com)** — portfolio. Astro + Tailwind + React on Cloudflare Workers. Lighthouse 100×4 desktop + mobile.
 - **[second-brain](https://github.com/Aquinas-Protocol/second-brain)** — Karpathy-pattern knowledge vault. `raw/` (read-only) curated into atomic `wiki/` pages by Claude Code.
